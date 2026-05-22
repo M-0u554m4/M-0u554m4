@@ -16,7 +16,6 @@
 - 🌐 Passionate about **AI Research, Full-Stack Development, and Data Engineering**, with strong foundations in designing innovative solutions.  
 - 🛠️ Proficient in **Python, TypeScript, Java, SQL, and modern AI frameworks**.  
 - 📫 Reach me at **[dev.mahdjour.oussama@gmail.com](mailto:dev.mahdjour.oussama@gmail.com)**.  
-- 🌍 Explore my work on my **[Portfolio](https://oussamamahdjour.engineer)**.  
 
 ---
 
@@ -78,8 +77,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OussamaMahdjour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussamamahdjour)
 [![GitHub](https://img.shields.io/badge/GitHub-mahdjourOussama-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdjourOussama)
 [![Email](https://img.shields.io/badge/Gmail-mahdjourOussama-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mahdjour.oussama@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oussamamahdjour.engineer)
-
 ---
 
 🌟 **Thanks for visiting my profile!** 🚀
